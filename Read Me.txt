@@ -1,0 +1,3 @@
+Create a database with a name assignment.
+then run the command yiic mingrate.
+it will create tbl_user table in database.
